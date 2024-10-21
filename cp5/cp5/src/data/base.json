@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "autor": "Felipe Silva Maciel",
+    "titulo": "As Influências Celestiais na Cultura Humana",
+    "tema": "Astronomia e Cultura",
+    "teoria": "Esta teoria propõe que eventos astronômicos influenciaram mitos e crenças em diversas culturas ao longo da história."
+  },
+  {
+    "id": 2,
+    "autor": "Guilherme Grizão",
+    "titulo": "A Conexão entre Catástrofes e Mitologia",
+    "tema": "Mitologia e Catástrofes",
+    "teoria": "Sugere que catástrofes naturais são frequentemente refletidas em mitos de diversas civilizações, servindo como uma forma de memória coletiva."
+  },
+  {
+    "id": 3,
+    "autor": "Felipe Barbour",
+    "titulo": "A Dinâmica dos Planetas e suas Implicações",
+    "tema": "Dinâmica Planetária",
+    "teoria": "Explora como a interação gravitacional entre planetas pode causar mudanças drásticas no sistema solar, afetando a Terra."
+  },
+  {
+    "id": 4,
+    "autor": "Wesley Sena",
+    "titulo": "Impactos de Asteroides na Evolução da Vida",
+    "tema": "Astrobiologia",
+    "teoria": "Investiga como impactos de asteroides ao longo da história da Terra podem ter influenciado a evolução das espécies."
+  },
+  {
+    "id": 5,
+    "autor": "Kaique Pintor",
+    "titulo": "Eclipses e sua Relevância Cultural",
+    "tema": "Astronomia e Sociedade",
+    "teoria": "Esta teoria examina como os eclipses solares e lunares foram interpretados em diferentes culturas, muitas vezes sendo vistos como sinais divinos ou precursores de eventos significativos."
+  }
+  
+]
